@@ -19,7 +19,7 @@ namespace Game.Core
             UserNameService usr = new UserNameService();
             Console.WriteLine($"Type of the var y is {usr.GetType()}");
 
-            Console.WriteLine($"Please enter your character name: ");
+            Console.WriteLine($"Please enter your character name: "); 
             var name = Console.ReadLine();
             name = usr.LowerName(name);
             Console.WriteLine($"Name is lowered {name}");

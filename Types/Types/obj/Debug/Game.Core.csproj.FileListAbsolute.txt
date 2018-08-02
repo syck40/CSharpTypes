@@ -1,7 +1,0 @@
-C:\Users\Dan\builds\demoTypes\Types\Types\obj\Debug\Game.Core.csprojAssemblyReference.cache
-C:\Users\Dan\builds\demoTypes\Types\Types\obj\Debug\Game.Core.csproj.CoreCompileInputs.cache
-C:\Users\Dan\builds\demoTypes\Types\Types\obj\Debug\Types.exe
-C:\Users\Dan\builds\demoTypes\Types\Types\obj\Debug\Types.pdb
-C:\Users\Dan\builds\demoTypes\Types\Types\bin\Debug\Types.exe.config
-C:\Users\Dan\builds\demoTypes\Types\Types\bin\Debug\Types.exe
-C:\Users\Dan\builds\demoTypes\Types\Types\bin\Debug\Types.pdb
